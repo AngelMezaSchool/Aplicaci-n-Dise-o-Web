@@ -1,8 +1,8 @@
 # Aplicaci-n-Dise-o-Web
 Actividad 1_Diseño de aplicaciones Web
 
-nombre: Jose Angel Meza Vasquez
-número de matrícula: 3018750 
+Nombre: Jose Angel Meza Vasquez
+Número de matrícula: 3018750 
 carrera: IDS 
 semestre: 6to semestre
 
